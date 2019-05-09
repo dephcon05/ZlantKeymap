@@ -28,7 +28,8 @@
 #ifdef BACKLIGHT_PIN
 #define BACKLIGHT_LEVELS 0
 #endif
-
+/*Tap dance delay*/
+#define TAPPING_TERM 200
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCING_DELAY 5
 
